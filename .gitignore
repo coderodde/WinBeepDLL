@@ -1,3 +1,6 @@
 stdafx.*
 .vs
 Debug
+Release
+!Release\WinBeepDLL.dll
+!Debug\WinBeepDLL.dll
